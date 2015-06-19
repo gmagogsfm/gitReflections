@@ -15,6 +15,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+    branches are helpful when two different versions need to be kept and developped independetly
 
 How do the diagrams help you visualize the branch structure?
 
